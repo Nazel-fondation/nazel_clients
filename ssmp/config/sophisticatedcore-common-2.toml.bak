@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:gold_backpack|true", "sophisticatedbackpacks:inception_upgrade|true", "sophisticatedbackpacks:restock_upgrade|true", "sophisticatedbackpacks:stonecutter_upgrade|true", "sophisticatedbackpacks:advanced_compacting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_4|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:backpack|true", "sophisticatedbackpacks:copper_backpack|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:netherite_backpack|true", "sophisticatedbackpacks:pickup_upgrade|true", "sophisticatedbackpacks:advanced_pickup_upgrade|true", "sophisticatedbackpacks:filter_upgrade|true", "sophisticatedbackpacks:advanced_filter_upgrade|true", "sophisticatedbackpacks:magnet_upgrade|true", "sophisticatedbackpacks:advanced_magnet_upgrade|true", "sophisticatedbackpacks:feeding_upgrade|true"]
+

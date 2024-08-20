@@ -1,0 +1,40 @@
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.20
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: /home/thibault/.nazel/Ip8fBedM9pRkPE3EgRSt/defaullt/CustomSkinLoader
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Linux (amd64) version 6.9.3-76060903-generic
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.11, Ubuntu
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Config File: /home/thibault/.nazel/Ip8fBedM9pRkPE3EgRSt/defaullt/CustomSkinLoader/CustomSkinLoader.json
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.20
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 27
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Nazel", "type": "CustomSkinAPI", "root": "http://82.65.207.221:81/" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }]
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : false
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 1
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-08-10 11:28:44] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : true
+[2024-08-10 11:28:44] [Vupilex/INFO] [CustomSkinLoader Core]: Loading Vupilex's profile.
+[2024-08-10 11:28:44] [Vupilex/INFO] [CustomSkinLoader Core]: 1/2 Try to load profile from 'Nazel'.
+[2024-08-10 11:28:44] [Vupilex/DEBUG] [CustomSkinLoader Core]: Try to request 'http://82.65.207.221:81/Vupilex.json'.
+[2024-08-10 11:28:44] [Vupilex/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 183)
+[2024-08-10 11:28:44] [Vupilex/DEBUG] [CustomSkinLoader Core]: Content: {"username":"vupilex","skins":{"default":"88ff99711411eca7de38f6af57f4a6550f9f1f3c46c3ec2f77c86da770493c01"},"cape":"1012de77e76eb3826634a43ad20ff9e97203bcbcb388f42b3e06af98e36c7c0f"}
+[2024-08-10 11:28:44] [Vupilex/INFO] [CustomSkinLoader Core]: Vupilex's profile loaded.
+[2024-08-10 11:28:44] [Vupilex/INFO] [CustomSkinLoader Core]: (SkinUrl: http://82.65.207.221:81/textures/88ff99711411eca7de38f6af57f4a6550f9f1f3c46c3ec2f77c86da770493c01 , Model: default , CapeUrl: http://82.65.207.221:81/textures/1012de77e76eb3826634a43ad20ff9e97203bcbcb388f42b3e06af98e36c7c0f  , Expiry: 1723282154)

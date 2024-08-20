@@ -1,0 +1,28 @@
+{
+  "version": "14.20",
+  "buildNumber": 27,
+  "loadlist": [
+    {
+      "name": "Nazel",
+      "type": "CustomSkinAPI",
+      "root": "http://82.65.207.221:81/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "threadPoolSize": 1,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "forceDisableCache": true
+}

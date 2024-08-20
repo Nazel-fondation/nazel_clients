@@ -1,0 +1,8 @@
+#Sat Aug 10 11:28:09 CEST 2024
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=512
+SHADOW=false
+SHADOW_COLOR=false
+AO=false
